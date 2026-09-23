@@ -2,6 +2,10 @@
 
 An original living dither garden and reusable visual system, inspired by printmaking, halftone shaders, field guides and quiet simulation interfaces.
 
+![Moss / Ink field study](docs/screenshot.jpg)
+
+**Live:** https://aeiouvcode.github.io/moss-ink/
+
 ## Design system
 
 - **Paper:** `#AAA79D`
